@@ -6406,3 +6406,16 @@ dtype: int64}]))),
 2024-07-23 10:35:33,642:INFO:Preloading libraries
 2024-07-23 10:35:33,642:INFO:Set up data.
 2024-07-23 10:35:33,659:INFO:Set up index.
+2024-07-23 11:20:49,928:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-23 11:20:49,928:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-23 11:20:49,928:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-23 11:20:49,928:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-23 11:20:50,993:INFO:Initializing load_model()
+2024-07-23 11:20:50,993:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2024-07-23 11:20:51,324:WARNING:C:\Users\DELL\anaconda3\lib\site-packages\dask\dataframe\_pyarrow_compat.py:23: UserWarning: You are using pyarrow version 11.0.0 which is known to be insecure. See https://www.cve.org/CVERecord?id=CVE-2023-47248 for further details. Please upgrade to pyarrow>=14.0.1 or install pyarrow-hotfix to patch your current version.
+  warnings.warn(
+
